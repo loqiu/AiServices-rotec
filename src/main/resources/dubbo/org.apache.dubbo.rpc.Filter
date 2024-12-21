@@ -1,0 +1,2 @@
+traceIdConsumer=com.rotec.aiservicesrotec.Filter.TraceIdConsumerFilter
+traceIdProvider=com.rotec.aiservicesrotec.Filter.TraceIdProviderFilter
